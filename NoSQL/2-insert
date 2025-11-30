@@ -1,2 +1,2 @@
 // insertone bir atribut elave eliyende olur ve {}icerisinde dictionary kimi
-db.school.insert({ name: "Holberton School" });
+db.school.insert({ name: "Holberton school" });
