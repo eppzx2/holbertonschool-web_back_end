@@ -1,0 +1,2 @@
+// use emri ile hem istifade edirik hem de yarada bilirik
+use my_db;
