@@ -1,0 +1,2 @@
+// number of documents displayed
+print(db.school.count());
