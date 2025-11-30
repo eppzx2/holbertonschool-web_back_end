@@ -8,7 +8,9 @@ from pymongo import MongoClient
 
 
 def main():
-    """task"""
+    """
+    connects to mongodb queries the nginx
+    """
 
     client = MongoClient("mongodb://localhost:27017/")
     db = client.logs
