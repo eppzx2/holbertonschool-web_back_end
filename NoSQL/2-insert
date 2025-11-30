@@ -1,0 +1,2 @@
+// insertone bir atribut elave eliyende olur ve {}icerisinde dictionary kimi
+db.collection.insertOne({ name: "Holberton School" });
