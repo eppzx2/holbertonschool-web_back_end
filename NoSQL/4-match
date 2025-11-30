@@ -1,0 +1,2 @@
+// filterlemek
+db.school.find({ name: "Holberton school"});
